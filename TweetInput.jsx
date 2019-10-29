@@ -8,8 +8,8 @@ function TweetInput(props) {
             props.addTweet({
                 id: new Date().getTime(),
                 icon: '',
-                displayName: 'MTTTTT',
-                accountName: 'mrdeath',
+                displayName: 'C',
+                accountName: 'cccccc',
                 content: textareaRef.current.value
             });
         }
